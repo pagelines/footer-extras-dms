@@ -1,0 +1,14 @@
+== Description ==
+
+Footer Extras DMS puts a few extra items below your footer area that are nice to have but don't need to be displayed prominently.
+
+• Display a dynamically generated copyright notice with the year(s) pulled from your first and last published posts.
+
+• Show your business name, address and phone (NAP) in schema.org format for local search. Still useful even if you aren't a local business.
+
+• Space for an additional line of text, ideal for web designer credit and link. 
+
+
+== Changelog ==
+= 1.0 =
+* Initial release
