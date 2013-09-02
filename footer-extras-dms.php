@@ -252,14 +252,14 @@ class Footer_Extras_DMS {
 				'key'		=>	'footer_extras_dms_nap_setup',
 				'type'		=> 'multi', 
 				'span'		=>	'2',
-				'help'	=> __('Setup Business Name, Address and Phone formatted with rich text snippets for local seo. If you have a Google+ Local page or your business is listed in other directories make sure that the NAP is the same, otherwise you will not get the full value of the NAP. <br /><br />You can also enter your latitude and logitude(coordinates are not displayed, just coded for geolocation). Find your coordinates at http://geocoder.us.', 'footer-extras-dms'),
+				'help'	=> __('Setup Business Name, Address and Phone formatted with rich text snippets for local seo. If you have a Google+ Local page or your business is listed in other directories make sure that the NAP is the same, otherwise you will not get the full value of the NAP. <br /><br />You can also enter your latitude and longitude(coordinates are not displayed, just coded for geolocation). Find your coordinates at http://geocoder.us.', 'footer-extras-dms'),
 				'title'		=> __('Business NAP (Name, Address, Phone)', 'footer-extras-dms'), 
 				'opts'	=> array(
 					
 					array(
 						'key'			=>	'footer_extras_dms_nap',
 						'type' 			=> 'check',			
-						'label'	=> 'Show The Business NAP (Name, Address, Phone)?'
+						'label'	=> __('Show The Business NAP (Name, Address, Phone)?', 'footer-extras-dms')
 					),
 					array(
 						'key'			=>	'nap_name',
