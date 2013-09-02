@@ -292,7 +292,7 @@ class Footer_Extras_DMS {
 						'label'	=> __('Business Phone Number', 'footer-extras-dms')
 					),
 					array(
-						'key'			=>	'nap_longtiude',
+						'key'			=>	'nap_longitude',
 						'type' 			=> 'text',			
 						'label'	=> __('Address Longitude', 'footer-extras-dms')
 					),
